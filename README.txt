@@ -7,12 +7,13 @@ Dependences:
     C++
 Importent Notes:
     - File input is prompted in terminal
-    - Output File is DFA.txt
+    - Output File is DFA.txt located in local directory
     - All testing was done with compiler g++
 How to use:
     g++ *.cpp
     ./a.out
     /*prompted for file*/: /*file name*/ (example.txt and example1.txt are provided)
+
 Returns:
     Dfa.txt
 
