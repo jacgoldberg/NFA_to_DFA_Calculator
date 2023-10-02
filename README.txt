@@ -9,6 +9,9 @@ Importent Notes:
     - File input is prompted in terminal
     - Output File is DFA.txt located in local directory
     - All testing was done with compiler g++
+Example Files:
+    - example.txt is visualized in Example.pdf
+    - example1.txt is visualized in Example1.pdf
 How to use:
     g++ *.cpp
     ./a.out
