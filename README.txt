@@ -10,7 +10,7 @@ Importent Notes:
     - Output File is DFA.txt located in local directory
     - All testing was done with compiler g++
 Example Files:
-    - example.txt is visualized in Example.pdf
+    - example.txt is visualized in example.pdf
     - example1.txt is visualized in Example1.pdf
 How to use:
     g++ *.cpp
